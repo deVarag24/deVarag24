@@ -8,7 +8,7 @@ Welcome to my digital playground! I'm a **Full-Stack Software Developer** who lo
 
 - 🧠 Currently mastering **System Design**, **OOP**, and **Software Architecture**
 - ⚙️ Building full-stack projects using **Next.js**, **Express.js**, and **TypeScript**
-- 🚀 Exploring the world of **AI-powered SaaS** and **Go microservices**
+- 🚀 Exploring the world of **Golang**
 - 📦 Passionate about developer experience, building reusable components & design systems
 - 📚 Constant learner, sharing what I learn through code, content, and collaboration
 
